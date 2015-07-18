@@ -1,0 +1,7 @@
+docker-plugin:latest
+github-api:latest
+github:latest
+ghprb:latest
+gitlab-merge-request-jenkins:latest
+gitlab-plugin:latest
+swarm:latest
