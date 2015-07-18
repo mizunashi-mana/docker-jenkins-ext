@@ -1,6 +1,8 @@
+*.tar.*
+
 # for MacOSX
 .DS_Store
 
 # for Editor
-*.swp
 *~
+*.swp
